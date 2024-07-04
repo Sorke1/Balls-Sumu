@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{B2B644D2-1B5E-5C51-255F-0888007DC006}|">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="42170f8a-0258-421c-a0d0-3ebf6d24cc8f" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/enemyMove.cs">
+    <Files>
+      <File FileName="Assets/Script/RotateCamera.cs" />
+      <File FileName="Assets/Script/spawnManager.cs" />
+      <File FileName="Assets/Script/enemyMove.cs" Line="7" Column="28" />
+      <File FileName="Assets/Script/playerController.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
